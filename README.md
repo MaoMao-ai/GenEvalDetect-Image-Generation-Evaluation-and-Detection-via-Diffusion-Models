@@ -8,6 +8,7 @@ This project explores a comprehensive pipeline for diffusion-based image generat
 - **MSFID (Multi-Scale Fréchet Inception Distance)** for enhanced image quality assessment
 - **ViT-based binary classifier** to detect AI-generated images
 - **Dataset for Training MSFID and ViT-based binary classifier** can be obtained from https://github.com/ZhendongWang6/DIRE
+- **stable-diffusion-v1-5** can be obtained from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
 
 ---
 
